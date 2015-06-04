@@ -1,0 +1,23 @@
+{
+  "name": "lecture08",
+  "version": "1.0.0",
+  "authors": [
+    "N.Shimizu <chikoski@gmail.com>"
+  ],
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/js/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "mocha": "~2.2.5",
+    "expect.js": "~0.3.1"
+  }
+}
